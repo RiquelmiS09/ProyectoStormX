@@ -1,0 +1,7 @@
+C:\Users\Capellan\source\repos\ProyectoStormX\ProyectoStormX\bin\Debug\ProyectoStormX.exe.config
+C:\Users\Capellan\source\repos\ProyectoStormX\ProyectoStormX\bin\Debug\ProyectoStormX.exe
+C:\Users\Capellan\source\repos\ProyectoStormX\ProyectoStormX\bin\Debug\ProyectoStormX.pdb
+C:\Users\Capellan\source\repos\ProyectoStormX\ProyectoStormX\obj\Debug\ProyectoStormX.csprojResolveAssemblyReference.cache
+C:\Users\Capellan\source\repos\ProyectoStormX\ProyectoStormX\obj\Debug\ProyectoStormX.csproj.CoreCompileInputs.cache
+C:\Users\Capellan\source\repos\ProyectoStormX\ProyectoStormX\obj\Debug\ProyectoStormX.exe
+C:\Users\Capellan\source\repos\ProyectoStormX\ProyectoStormX\obj\Debug\ProyectoStormX.pdb
